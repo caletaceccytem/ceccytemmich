@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<TITLE>MISION</TITLE>
+ </HEAD>
+   <BODY background="fondo.jpg">
+   <p align="center"><img height="30%"  src="logotipocecytem.jpg"></p>
+     <CENTER><H2><FONT SIZE="5" FACE="ARIAL"><B>CECYTEM CALETA</H2></CENTER>
+     <BR>
+       <BR>
+         <CENTER><H1>MISION</H1></CENTER> 
+           <BR>
+           <BR>
+           <P>convertimos en centros de apoyo tecnologicos,para impulsar el desarrollo de las regiones donde nos encontramos 
+            operando.  </P>
+            
+            <a href="INDEX.htm"> REGRESAR A LA PAGINA PRINCIPAL</a>
+
+         </BODY>
+         </HTML>
